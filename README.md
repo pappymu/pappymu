@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2> Welcome to my home!</h2>
 
 [![Linkedin](https://img.shields.io/badge/-pappymu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pappymu/)](https://www.linkedin.com/in/pappymu/)
-[![Twitter](https://img.shields.io/twitter/follow/pappymu?style=social)](https://twitter.com/pappymu)
+[![Twitter](https://img.shields.io/twitter/pappymu?style=social)](https://twitter.com/pappymu)
 [![GitHub](https://img.shields.io/github/followers/pappymu?label=follow&style=social)](https://github.com/pappymu)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/11133573787)
 
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/pappymu/), [Twitter](twitter.com/pappymu)
 
 ## Projects I'm working on:
-- [x] Finish GA's Data Science Immersive
+- [x] Finish [GA's Data Science Immersive](https://github.com/pappymu/GA-Projects)
 - [ ] Food-alcohol recommender system
 <!-- - [ ] NLP for Classical Chinese (文言文自然语言处理) (probably too ambitious) -->
