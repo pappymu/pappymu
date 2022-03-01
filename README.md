@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/twitter/follow/pappymu?style=social)](https://twitter.com/pappymu)
 [![GitHub](https://img.shields.io/github/followers/pappymu?label=follow&style=social)](https://github.com/pappymu)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/11133573787)
+
+## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/pappymu/count.svg)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pappymu&theme=cobalt)](https://github.com/pappymu/github-readme-stats)
