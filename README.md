@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Nicholas Lim's Personal Repo <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='30px'></h1>
-## Welcome to my home!
+<h2> Welcome to my home!</h2>
 
-<!-- [![Twitter](https://img.shields.io/twitter/follow/pappymu?style=social)](https://twitter.com/ThaiiBraga) -->
 [![Linkedin](https://img.shields.io/badge/-pappymu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pappymu/)](https://www.linkedin.com/in/pappymu/)
+[![Twitter](https://img.shields.io/twitter/follow/pappymu?style=social)](https://twitter.com/pappymu)
 [![GitHub](https://img.shields.io/github/followers/pappymu?label=follow&style=social)](https://github.com/pappymu)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/11133573787)
 ![Visitor Count](https://profile-counter.glitch.me/pappymu/count.svg)
