@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 - ❤️ Interests: Natural Language Processing, Edtech, Sustainability, Science
 - 🛠  Tech stack: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp; ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=Jupyter)&nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
 <!-- - 🦄 Proficiencies: python -->
-- 🌱 Currently learning: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; ![Apache Spark](https://a11ybadges.com/badge?logo=apachespark)&nbsp;
+- 🌱 Currently learning: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp; ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat&logo=apachespark&logoColor=#E35A16)&nbsp;
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/pappymu/), [Twitter](twitter.com/pappymu)
-- 🔭 I’m currently researching and writing blog posts on Semantic Similarity Search for [Zilliz](https://zilliz.com/).
 - ⌛ In the past, I was the Data Science Lead at [GoTo-Tokopedia](https://en.wikipedia.org/wiki/GoTo_(company)) (Indonesia's largest technology-ecommerce company) and the Data Science Manager at [Micron](https://www.micron.com/) (Fortune500 US Semiconductor Manufacturing company).
 
 ## Projects I'm working on:
