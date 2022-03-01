@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 ## Who am I?
 
 - ⚡ Profile: Data scientist based in Singapore
-- ❤️ Interests: Natural Language Processing, Edtech, Sustainability, Science
+- ❤️ Interests: Natural Language Processing, Edtech, Sustainability, Physics
 - 🛠  Tech stack: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp; ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=Jupyter)&nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)&nbsp;
 - 🌱 Currently learning: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp; ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat&logo=apachespark&logoColor=#E35A16)&nbsp;
+- 📖 Training: Physics and math
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/pappymu/), [Twitter](twitter.com/pappymu)
 
 ## Projects I'm working on:
