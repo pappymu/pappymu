@@ -28,13 +28,11 @@ Here are some ideas to get you started:
 
 - ⚡ Profile: Data scientist based in Singapore
 - ❤️ Interests: Natural Language Processing, Edtech, Sustainability, Science
-- 🛠  Tech stack: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp; ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=Jupyter)&nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
-<!-- - 🦄 Proficiencies: python -->
+- 🛠  Tech stack: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp; ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=Jupyter)&nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)&nbsp;
 - 🌱 Currently learning: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp; ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat&logo=apachespark&logoColor=#E35A16)&nbsp;
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/pappymu/), [Twitter](twitter.com/pappymu)
-- ⌛ In the past, I was the Data Science Lead at [GoTo-Tokopedia](https://en.wikipedia.org/wiki/GoTo_(company)) (Indonesia's largest technology-ecommerce company) and the Data Science Manager at [Micron](https://www.micron.com/) (Fortune500 US Semiconductor Manufacturing company).
 
 ## Projects I'm working on:
-- [x] Finish GA's Data Science Immersive // This is done
-- [ ] Food-alcohol recommender system // This is pending
+- [x] Finish GA's Data Science Immersive
+- [ ] Food-alcohol recommender system
 <!-- - [ ] NLP for Classical Chinese (文言文自然语言处理) (probably too ambitious) -->
