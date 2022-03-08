@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-pappymu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pappymu/)](https://www.linkedin.com/in/pappymu/)
 [![Twitter](https://img.shields.io/twitter/follow/pappymu?style=social)](https://twitter.com/pappymu)
 [![GitHub](https://img.shields.io/github/followers/pappymu?label=follow&style=social)](https://github.com/pappymu)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/11133573787)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flatl&logo=spotify)](https://open.spotify.com/user/11133573787)
+[![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=flat&logo=goodreads)](https://www.goodreads.com/user/show/10729502-nicholas)
+
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/pappymu/count.svg)
