@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <h2> Welcome to my home!</h2>
 
 [![Linkedin](https://img.shields.io/badge/-pappymu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pappymu/)](https://www.linkedin.com/in/pappymu/)
-[![Twitter](https://img.shields.io/twitter/follow/pappymu?style=social)](https://twitter.com/pappymu)
+[![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=flat&logo=goodreads)](https://www.goodreads.com/user/show/10729502-nicholas)
 [![GitHub](https://img.shields.io/github/followers/pappymu?label=follow&style=social)](https://github.com/pappymu)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flatl&logo=spotify)](https://open.spotify.com/user/11133573787)
-[![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=flat&logo=goodreads)](https://www.goodreads.com/user/show/10729502-nicholas)
+[![Twitter](https://img.shields.io/twitter/follow/pappymu?style=social)](https://twitter.com/pappymu)
 
 
 ## Visitor Count
