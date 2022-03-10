@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Nicholas Lim's Personal Repo <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='30px'></h1>
-<h2> Welcome to my home!</h2>
+<h2> Welcome to my little corner of the internet!</h2>
 
 [![Linkedin](https://img.shields.io/badge/-pappymu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pappymu/)](https://www.linkedin.com/in/pappymu/)
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=flat&logo=goodreads)](https://www.goodreads.com/user/show/10729502-nicholas)
