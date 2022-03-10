@@ -39,5 +39,6 @@ Here are some ideas to get you started:
 
 ## Projects I'm working on:
 - [ ] Food-alcohol recommender system
+- [ ] Short answer grading for my company [eduvision](http://eduvision.tech/)
 - [x] Finish [GA's Data Science Immersive](https://github.com/pappymu/GA-Projects)
 <!-- - [ ] NLP for Classical Chinese (文言文自然语言处理) (probably too ambitious) -->
