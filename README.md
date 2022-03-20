@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/pappymu/), [Twitter](twitter.com/pappymu)
 
 ## Projects I'm working on:
+- [ ] [Kaggle's Herbarium 2021 Competition](https://www.kaggle.com/c/herbarium-2021-fgvc8/data) - ([my notebook](https://github.com/pappymu/herb))
 - [ ] Food-alcohol recommender system
 - [ ] Short answer grading for my company [eduvision](http://eduvision.tech/)
 - [x] Finish [GA's Data Science Immersive](https://github.com/pappymu/GA-Projects)
